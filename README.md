@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arushi Yana Thakur</h1>
 <h3 align="center">I am a Senior Computer Science Major at Texas Christian University</h3>
 
-- 🌱 I’m currently learning **SpringBoot, Vue.js, next.js, React**
+- 🌱 I’m currently learning **SpringBoot, Vue.js, React**
 
 - 📫 How to reach me **arushiyanathakur@gmail.com**
 
